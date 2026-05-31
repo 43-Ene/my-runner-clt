@@ -29,6 +29,7 @@
     {"id":{"name":"rm_GameRoom","path":"rooms/rm_GameRoom/rm_GameRoom.yy",},},
     {"id":{"name":"spr_advance","path":"sprites/spr_advance/spr_advance.yy",},},
     {"id":{"name":"spr_cutscene","path":"sprites/spr_cutscene/spr_cutscene.yy",},},
+    {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
