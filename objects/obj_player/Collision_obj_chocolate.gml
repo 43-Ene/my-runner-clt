@@ -1,0 +1,1 @@
+obj_chocolate.y = obj_chocolate.respawn_position;

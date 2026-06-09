@@ -1,0 +1,1 @@
+obj_coxinha.y = obj_coxinha.respawn_position;

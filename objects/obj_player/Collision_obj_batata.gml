@@ -1,0 +1,1 @@
+obj_batata.y = obj_batata.respawn_position;

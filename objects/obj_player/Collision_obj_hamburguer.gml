@@ -1,0 +1,1 @@
+obj_hamburguer.y = obj_hamburguer.respawn_position;
