@@ -1,5 +1,5 @@
 obj_clt2.x = choose(left, right);
-obj_clt2.y = (- 32*choose(2, 3, 4, 5, 6, 7)) - (64*choose(1, 2, 3, 4 ,5, 6, 7));
+obj_clt2.y = (- 32*choose(1, 2, 3, 4, 5, 6, 7)) - (64*choose(1, 2, 3, 4 ,5, 6, 7));
 
 if(obj_clt2.x == left)
 {

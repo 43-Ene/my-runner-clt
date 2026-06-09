@@ -35,52 +35,52 @@ if(obj_clt4.y < room_height/2)
 										
 }
 
-if(obj_clt4.y >= obj_clt3.y - 64 && obj_clt4.y <= obj_clt3.y + 64)
+if(obj_clt4.y >= obj_clt3.y - 80 && obj_clt4.y <= obj_clt3.y + 80)
 {
 		obj_clt4.y = respawn_position;
 		
 }
-if(obj_clt4.y >= obj_clt2.y - 64 && obj_clt4.y <= obj_clt2.y + 64)
+if(obj_clt4.y >= obj_clt2.y - 80 && obj_clt4.y <= obj_clt2.y + 80)
 {
 		obj_clt4.y = respawn_position;
 		
 }
-if(obj_clt4.y >= obj_clt1.y - 64 && obj_clt4.y <= obj_clt1.y + 64)
+if(obj_clt4.y >= obj_clt1.y - 80 && obj_clt4.y <= obj_clt1.y + 80)
 {
 		obj_clt4.y = respawn_position;	
 		
 }
-if(obj_clt4.y >= obj_clt0.y - 64 && obj_clt4.y <= obj_clt0.y + 64)
+if(obj_clt4.y >= obj_clt0.y - 80 && obj_clt4.y <= obj_clt0.y + 80)
 {
 		obj_clt4.y = respawn_position;
 		
 }
-if(obj_clt3.y >= obj_clt2.y - 64 && obj_clt3.y <= obj_clt2.y + 64)
+if(obj_clt3.y >= obj_clt2.y - 80 && obj_clt3.y <= obj_clt2.y + 80)
 {
 		obj_clt3.y = respawn_position;
 		
 }
-if(obj_clt3.y >= obj_clt1.y - 64 && obj_clt3.y <= obj_clt1.y + 64)
+if(obj_clt3.y >= obj_clt1.y - 80 && obj_clt3.y <= obj_clt1.y + 80)
 {
 		obj_clt3.y = respawn_position;
 		
 }
-if(obj_clt3.y >= obj_clt0.y - 64 && obj_clt3.y <= obj_clt0.y + 64)
+if(obj_clt3.y >= obj_clt0.y - 80 && obj_clt3.y <= obj_clt0.y + 80)
 {
 		obj_clt3.y = respawn_position;
 		
 }
-if(obj_clt2.y >= obj_clt1.y - 64 && obj_clt2.y <= obj_clt1.y + 64)
+if(obj_clt2.y >= obj_clt1.y - 80 && obj_clt2.y <= obj_clt1.y + 80)
 {
 		obj_clt2.y = respawn_position;
 		
 }
-if(obj_clt2.y >= obj_clt0.y - 64 && obj_clt2.y <= obj_clt0.y + 64)
+if(obj_clt2.y >= obj_clt0.y - 80 && obj_clt2.y <= obj_clt0.y + 80)
 {
 		obj_clt2.y = respawn_position;
 		
 }
-if(obj_clt1.y >= obj_clt0.y - 64 && obj_clt1.y <= obj_clt0.y + 64)
+if(obj_clt1.y >= obj_clt0.y - 80 && obj_clt1.y <= obj_clt0.y + 80)
 {
 		obj_clt1.y = respawn_position;
 		
