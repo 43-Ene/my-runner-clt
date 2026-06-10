@@ -1,6 +1,6 @@
 global.game_velv += 0.0001;
 
-layer_vspeed(1, global.game_velv);
+layer_vspeed("Background", global.game_velv);
 
 show_debug_message(global.game_velv);
 

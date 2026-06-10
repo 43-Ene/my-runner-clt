@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -35,6 +36,9 @@
     {"id":{"name":"rm_cutscene","path":"rooms/rm_cutscene/rm_cutscene.yy",},},
     {"id":{"name":"rm_GameRoom","path":"rooms/rm_GameRoom/rm_GameRoom.yy",},},
     {"id":{"name":"scr_globals","path":"scripts/scr_globals/scr_globals.yy",},},
+    {"id":{"name":"snd_musica","path":"sounds/snd_musica/snd_musica.yy",},},
+    {"id":{"name":"snd_pagina","path":"sounds/snd_pagina/snd_pagina.yy",},},
+    {"id":{"name":"snd_pickup","path":"sounds/snd_pickup/snd_pickup.yy",},},
     {"id":{"name":"spr_advance","path":"sprites/spr_advance/spr_advance.yy",},},
     {"id":{"name":"spr_batata","path":"sprites/spr_batata/spr_batata.yy",},},
     {"id":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},},
@@ -48,8 +52,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_GameRoom","path":"rooms/rm_GameRoom/rm_GameRoom.yy",},},
     {"roomId":{"name":"rm_cutscene","path":"rooms/rm_cutscene/rm_cutscene.yy",},},
+    {"roomId":{"name":"rm_GameRoom","path":"rooms/rm_GameRoom/rm_GameRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
