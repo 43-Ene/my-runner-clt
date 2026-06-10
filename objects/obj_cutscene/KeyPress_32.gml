@@ -1,6 +1,6 @@
 image_index++;
 
-audio_play_sound(snd_pagina, 100, false);
+audio_play_sound(snd_pagina, 100, false, 5);
 
 if(image_index > 3)
 {
