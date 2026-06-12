@@ -35,7 +35,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_cutscene","path":"rooms/rm_cutscene/rm_cutscene.yy",},},
     {"id":{"name":"rm_GameRoom","path":"rooms/rm_GameRoom/rm_GameRoom.yy",},},
-    {"id":{"name":"scr_globals","path":"scripts/scr_globals/scr_globals.yy",},},
+    {"id":{"name":"scr_globais","path":"scripts/scr_globais/scr_globais.yy",},},
     {"id":{"name":"snd_musica","path":"sounds/snd_musica/snd_musica.yy",},},
     {"id":{"name":"snd_pagina","path":"sounds/snd_pagina/snd_pagina.yy",},},
     {"id":{"name":"snd_pickup","path":"sounds/snd_pickup/snd_pickup.yy",},},
