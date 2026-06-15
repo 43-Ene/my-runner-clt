@@ -1,7 +1,4 @@
 //Ao alarm[2] ser ativado
-//Randomizando a seed
-randomise();
-
 //A posicao de respawn nos eixos x e y serao sorteadas pelo jogo
 obj_clt2.x = choose(left, right);
 obj_clt2.y = (- 32*choose(1, 2, 3, 4, 5, 6, 7)) - (64*choose(1, 2, 3, 4 ,5, 6, 7));
